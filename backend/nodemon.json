@@ -1,0 +1,8 @@
+{
+    "ignore": [
+      "fallback-stocks.json",
+      "*.log",
+      "node_modules/**/node_modules"
+    ],
+    "verbose": true
+  }

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "symbol": "AAPL",
+    "last_price": 198.15,
+    "change_amount": 12.050000000000011,
+    "change_percent": 6.4750134336378355,
+    "volume": 87435915,
+    "sector": "Technology",
+    "updated_at": "2025-04-13T18:32:21.937Z",
+    "source": "polygon",
+    "_timestamp": 1744569141938,
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "symbol": "AMZN",
+    "last_price": 184.87,
+    "change_amount": 4.939999999999998,
+    "change_percent": 2.745512143611403,
+    "volume": 50594339,
+    "sector": "Consumer Cyclical",
+    "updated_at": "2025-04-13T18:32:21.942Z",
+    "source": "polygon",
+    "_timestamp": 1744569141942,
+    "isFavorite": false
+  },
+  {
+    "id": 5,
+    "symbol": "GOOGL",
+    "last_price": 157.14,
+    "change_amount": 4.239999999999981,
+    "change_percent": 2.7730542838456382,
+    "volume": 33636239,
+    "sector": "Technology",
+    "updated_at": "2025-04-13T18:32:21.988Z",
+    "source": "polygon",
+    "_timestamp": 1744569141988,
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "symbol": "META",
+    "last_price": 543.57,
+    "change_amount": 8.065000000000055,
+    "change_percent": 1.5060550321659099,
+    "volume": 17627477,
+    "sector": "Technology",
+    "updated_at": "2025-04-13T18:32:21.942Z",
+    "source": "polygon",
+    "_timestamp": 1744569141942,
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "symbol": "MSFT",
+    "last_price": 388.45,
+    "change_amount": 7.814999999999998,
+    "change_percent": 2.0531480289516195,
+    "volume": 23239220,
+    "sector": "Technology",
+    "updated_at": "2025-04-13T18:32:21.953Z",
+    "source": "polygon",
+    "_timestamp": 1744569141953,
+    "isFavorite": false
+  }
+]
