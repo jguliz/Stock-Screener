@@ -1,4 +1,4 @@
-# StockScope 📈
+# StockScope 📈 (IN PROGRESS)
 
 Real-time stock monitoring platform built with React and Node.js, featuring live market data, customizable alerts, and advanced screening capabilities.
 
