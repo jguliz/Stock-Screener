@@ -251,6 +251,6 @@ npm run test:e2e
 5. Set up a reverse proxy (nginx/Apache)
 6. Configure SSL certificates
 
-Your Name - jgulizia1205@gmail.com
+jgulizia1205@gmail.com
 
 Project Link: https://github.com/jguliz/StockScreener
