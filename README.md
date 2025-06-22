@@ -228,29 +228,6 @@ npm test
 npm run test:e2e
 ```
 
-## 🚢 Deployment
-
-### Using Docker
-
-1. **Build the Docker image**
-   ```bash
-   docker build -t stockscope .
-   ```
-
-2. **Run the container**
-   ```bash
-   docker run -p 5000:5000 --env-file .env stockscope
-   ```
-
-### Manual Deployment
-
-1. Set up a production MySQL database
-2. Configure environment variables on your server
-3. Build the frontend and deploy static files
-4. Deploy the backend Node.js application
-5. Set up a reverse proxy (nginx/Apache)
-6. Configure SSL certificates
-
 jgulizia1205@gmail.com
 
 Project Link: https://github.com/jguliz/StockScreener
